@@ -1,7 +1,7 @@
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: /content/drive/MyDrive/VinBigData Chest X-ray Abnormalities Detetion/images/train512  # 3515 images
-val: /content/drive/MyDrive/VinBigData Chest X-ray Abnormalities Detetion/images/val512  # 879 images
+train: /content/data/content/drive/MyDrive/VinBigData Chest X-ray Abnormalities Detetion/images/train512  # 3515 images
+val: /content/data/content/drive/MyDrive/VinBigData Chest X-ray Abnormalities Detetion/images/val512  # 879 images
 
 # number of classes
 nc: 14
